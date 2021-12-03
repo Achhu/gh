@@ -1,0 +1,9 @@
+p {
+    color: blue;
+    background-color: burlywood;
+    border: black;
+    border-width: 4px;
+    border-style: dotted;
+    font-style: italic;
+    font-size: large;
+}
